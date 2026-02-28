@@ -68,19 +68,19 @@ These insights help optimize:
 
 4. **Key Metrics Computed**
 
-Metric 1: Free-to-Paid Conversion Rate
+Metric 1: Free-to-Paid Conversion Rate = **11 %**
 
 <img width="1127" height="98" alt="image" src="https://github.com/user-attachments/assets/1e595525-950d-4e32-9144-76bc3152fb57" />
 
 Measures monetization efficiency of engaged users.
 
-Metric 2: Average Duration Between Registration and First Engagement
+Metric 2: Average Duration Between Registration and First Engagement = **3.4 Days**
 
 **Avg(Reg→Watch)**
 
 Measures activation speed.
 
-Metric 3: Average Duration Between First Engagement and First Purchase
+Metric 3: Average Duration Between First Engagement and First Purchase = **26 Days**
 
 **Avg(Watch→Purchase)**
 
